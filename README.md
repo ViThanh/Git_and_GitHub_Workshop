@@ -1,2 +1,2 @@
 # Git_and_GitHub_Workshop
-Exercise repository for the Git and GitHub Workshop
+This is an exercise repository for the Git and GitHub Workshop
